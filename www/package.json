@@ -6,7 +6,7 @@
     "next": "^8.0.0-canary.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "terser": "^3.14.1"
+    "terser": "^4.8.1"
   },
   "scripts": {
     "now-build": "next build"
